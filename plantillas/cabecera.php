@@ -33,6 +33,7 @@
                     <li><a href="../servicios/index.php" class="nav-link">Servicios</a></li>
                     <li><a href="../envios/index.php" class="nav-link">Envios</a></li>
                     <li><a href="../devoluciones/index.php" class="nav-link">Devoluciones</a></li>
+                    <li><a href="../productos/index.php" class="nav-link">Mi tienda</a></li>
                     <li><a href="../index.php" class="nav-link">Salir</a></li>
                 </ul>
             </nav>
