@@ -1,0 +1,56 @@
+☺ Smiley face: &#9786; o &#x263A;
+★ Star: &#9733; o &#x2605;
+❤ Heart: &#10084; o &#x2764;
+♛ Crown: &#9819; o &#x265B;
+☀ Sun: &#9728; o &#x2600;
+☁ Cloud: &#9729; o &#x2601;
+☎ Telephone: &#9742; o &#x260E;
+✉ Envelope: &#9993; o &#x2709;
+✈ Airplane: &#9992; o &#x2708;
+✪ Bullet: &#10026; o &#x272A;
+♻ Recycling symbol: &#9851; o &#x267B;
+⚠ Warning: &#9888; o &#x26A0;
+⌚ Watch: &#8986; o &#x231A;
+⌨ Keyboard: &#9000; o &#x2328;
+⚒ Hammer and pick: &#9874; o &#x2692;
+Carrito de compras: &#128722; o &#x1F6D2; (🛒)
+Cuenta de usuario: &#128100; o &#x1F4E4; (📤)
+Buscar: &#128269; o &#x1F50D; (🔍)
+Categorías o menú: &#127912; o &#x1F3A8; (🎨)
+Envío o entrega: &#128736; o &#x1F6F0; (🛰️)
+Pago seguro: &#128272; o &#x1F511; (🔑)
+Ayuda o soporte: &#128100; o &#x1F4E4; (📤)
+Ofertas o descuentos: &#128176; o &#x1F4B0; (💰)
+Características del producto: &#127870; o &#x1F35E; (🍞)
+Revisión o testimonios: &#127867; o &#x1F35B; (🍛)
+Carrito de compras: 🛒 (&#128722; o &#x1F6D2;)
+Usuario o cuenta: 👤 (&#128100; o &#x1F464;)
+Buscar: 🔍 (&#128269; o &#x1F50D;)
+Favoritos o lista de deseos: ❤️ (&#10084; o &#x2764;)
+Notificaciones: 🔔 (&#128276; o &#x1F514;)
+Ayuda o soporte: 🛎️ (&#128276; o &#x1F6CE;)
+Envío o entrega: 🚚 (&#128666; o &#x1F69A;)
+Pago seguro: 🔒 (&#128274; o &#x1F512;)
+Seguimiento de pedidos: 📦 (&#128230; o &#x1F4E6;)
+Política de devoluciones: 🔄 (&#128260; o &#x1F504;)
+Promociones o descuentos: 🎁 (&#127873; o &#x1F381;)
+Opiniones o reseñas: ⭐ (&#11088; o &#x2B50;)
+Información adicional: ℹ️ (&#8505; o &#x2139;)
+FAQ (Preguntas frecuentes): 📚 (&#128218; o &#x1F4DA;)
+Inicio: 🏠 (&#127968; o &#x1F3E0;)
+Productos: 🛍️ (&#128717; o &#x1F6CD;)
+Categorías: 📂 (&#128193; o &#x1F4C2;)
+Ofertas: 🎉 (&#127881; o &#x1F389;)
+Mi cuenta: 👤 (&#128100; o &#x1F464;)
+Carrito de compras: 🛒 (&#128722; o &#x1F6D2;)
+Buscar: 🔍 (&#128269; o &#x1F50D;)
+Ayuda: ❓ (&#10067; o &#x2753;)
+Contacto: 📞 (&#128222; o &#x1F4DE;)
+Sobre nosotros: 🏢 (&#127968; o &#x1F3E2;)
+
+Como utilizarlos
+ <li><a href="#"><span>&#128222;</span> Contacto</a></li>
+ <li><a href="">&#128222; Contacto</a></li>
+<button>
+  <span>&#128193;</span> Categorías
+</button>
